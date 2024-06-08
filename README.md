@@ -12,3 +12,5 @@ Following files re attached here:
 VBA code is in stock_output_solutions.bas  
 Excel file with VBA code: Multiple_year_stock_data.xlsm  
 Files are stored in repo https://github.com/RituNandi/VBA-challenge  
+![image](https://github.com/RituNandi/VBA-challenge/assets/168802039/06411e74-36c0-4db3-b6a4-582ccd0c0b01)
+
