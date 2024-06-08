@@ -10,4 +10,5 @@ Create a script that loops through all the stocks for each quarter and outputs t
 
 Following files re attached here:  
 VBA code is in stock_output_solutions.bas  
-Excel file with VBA code: Multiple_year_stock_data.xlsm
+Excel file with VBA code: Multiple_year_stock_data.xlsm  
+Files are stored in repo https://github.com/RituNandi/VBA-challenge  
