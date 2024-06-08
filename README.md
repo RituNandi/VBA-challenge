@@ -9,5 +9,5 @@ Create a script that loops through all the stocks for each quarter and outputs t
 *Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume".
 
 Following files re attached here:  
-VBA code is in stock_output_solutions.bas
+VBA code is in stock_output_solutions.bas  
 Excel file with VBA code: Multiple_year_stock_data.xlsm
